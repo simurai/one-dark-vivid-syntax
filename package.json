@@ -1,16 +1,17 @@
 {
-  "name": "one-dark-syntax",
+  "name": "one-dark-vivid-syntax",
   "theme": "syntax",
   "version": "0.7.0",
-  "description": "A dark syntax theme",
+  "description": "A more vivid One Dark Syntax theme",
   "keywords": [
     "dark",
     "blue",
+    "vivid",
     "syntax"
   ],
-  "repository": "https://github.com/atom/one-dark-syntax",
+  "repository": "https://github.com/simurai/one-dark-vivid-syntax",
   "license": "MIT",
   "engines": {
-    "atom": ">0.50.0"
+    "atom": ">1.0.0"
   }
 }
