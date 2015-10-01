@@ -4,11 +4,6 @@
 @syntax-saturation:   12%;
 @syntax-brightness:   22%;
 
-// Base colors -----------------------------------
-@syntax-accent: hsl(@syntax-hue, 100%, 76% );
-@syntax-guide:  fade(@syntax-fg, 10%);
-@syntax-fg:     @mono-1;
-@syntax-bg:     hsl(@syntax-hue, @syntax-saturation, @syntax-brightness);
 
 // Monochrome -----------------------------------
 @mono-1: hsl(@syntax-hue, 60%, 92%); // default text
@@ -26,3 +21,11 @@
 
 @hue-6:   hsl( 48, 71%, 76%); // <-orange 1
 @hue-6-2: hsl( 41, 98%, 70%); // <-orange 2
+
+
+// Base Syntax colors -----------------------------------
+@syntax-fg:     @mono-1;
+@syntax-bg:     hsl(@syntax-hue, @syntax-saturation, @syntax-brightness);
+@syntax-gutter: @mono-3;
+@syntax-guide:  fade(@syntax-fg, 10%);
+@syntax-accent: hsl(@syntax-hue, 100%, 76% );
