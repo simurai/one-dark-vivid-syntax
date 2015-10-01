@@ -1,6 +1,6 @@
-## One Dark Vivid Syntax theme
+## One Dark Vivid Syntax
 
-This theme is identical to the original [One Dark](https://atom.io/themes/one-dark-syntax) theme, except that the colors are more __vivid__.
+This Atom theme is identical to the original [One Dark](https://atom.io/themes/one-dark-syntax) theme, except that the colors are more __vivid__.
 
 ![one-dark-syntax](https://cloud.githubusercontent.com/assets/378023/7783203/49271ef6-0174-11e5-8eb1-d80b8d34a0e3.png)
 
