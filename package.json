@@ -1,12 +1,12 @@
 {
   "name": "one-dark-vivid-syntax",
   "theme": "syntax",
-  "version": "0.7.0",
+  "version": "1.0.1",
   "description": "A more vivid One Dark Syntax theme",
   "keywords": [
+    "vivid",
     "dark",
     "blue",
-    "vivid",
     "syntax"
   ],
   "repository": "https://github.com/simurai/one-dark-vivid-syntax",
